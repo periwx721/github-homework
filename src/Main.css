@@ -1,0 +1,10 @@
+.main{
+    background-color: cornflowerblue;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 40px ;
+    margin-top: 20px;
+    align-items: center;
+}
