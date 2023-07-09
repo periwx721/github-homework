@@ -8,6 +8,7 @@ export const Main = (phone) => {
         <h1>{phone.iPhoneName}</h1>
         <h3>price: {phone.price}</h3>
         <h3>color: {phone.color}</h3>
+        <h3>{phone.key}</h3>
     </div>
   )
 }
