@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github-homework/static/css/main.230b01cf.css",
+    "main.js": "/github-homework/static/js/main.6f12d1b3.js",
+    "index.html": "/github-homework/index.html",
+    "main.230b01cf.css.map": "/github-homework/static/css/main.230b01cf.css.map",
+    "main.6f12d1b3.js.map": "/github-homework/static/js/main.6f12d1b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.230b01cf.css",
+    "static/js/main.6f12d1b3.js"
+  ]
+}
